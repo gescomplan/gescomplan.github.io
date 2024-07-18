@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gescomplan.github.io/sitemap
+Sitemap: https://gescomplan.github.io/app/sitemap
+Sitemap: https://gescomplan.github.io/assets/sitemap
+Sitemap: https://gescomplan.github.io/css/sitemap
+Sitemap: https://gescomplan.github.io/includes/sitemap
+Sitemap: https://gescomplan.github.io/item/sitemap
+Sitemap: https://gescomplan.github.io/src/sitemap
